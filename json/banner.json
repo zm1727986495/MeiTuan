@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "img/banner/banner1.jpg",
+    "desc": "住酒店",
+    "link": "https://bj.meituan.com/"
+  },
+  {
+    "id": 2,
+    "img": "img/banner/banner2.jpg",
+    "desc": "吃美食",
+    "link": "https://bj.meituan.com/"
+  },
+  {
+    "id": 3,
+    "img": "img/banner/banner3.jpg",
+    "desc": "点外卖",
+    "link": "https://bj.meituan.com/"
+  },
+  {
+    "id": 4,
+    "img": "img/banner/banner4.jpg",
+    "desc": "看电影",
+    "link": "https://bj.meituan.com/"
+  },
+  {
+    "id": 5,
+    "img": "img/banner/banner5.jpg",
+    "desc": "商家福利",
+    "link": "https://bj.meituan.com/"
+  },
+  {
+    "id": 6,
+    "img": "img/banner/banner6.jpg",
+    "desc": "食安丰台",
+    "link": "https://bj.meituan.com/"
+  }
+]
